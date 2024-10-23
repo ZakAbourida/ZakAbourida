@@ -1,5 +1,5 @@
 # 💫 About Me:
-Graduate in Computer Science at the University of Turin, with solid skills in software development and innovative technologies. I am a <br>responsible, determined, reliable and analytical person, with excellent <br>problem solving skills. I am organized and collaborative, oriented towards achieving goals and continuous improvement. Competitive<br> athlete for +10 years and for about 4 years an athletics instructor.
+Graduate in Computer Science at the University of Turin, with solid skills in software development and innovative technologies. I am a <br>responsible, determined, reliable and analytical person, with excellent problem solving skills. <br>I am organized and collaborative, oriented towards achieving goals and continuous improvement. Competitive<br> athlete for +10 years and for about 4 years an athletics instructor.
 
 
 ## 🌐 Socials:
